@@ -1,0 +1,16 @@
+{
+  "name": "2nd-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webserver.js",
+  "scripts": {
+    "start": "node webserver",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  }
+}
